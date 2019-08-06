@@ -1,2 +1,2 @@
-# fakerepository
+# Fakerepository
 A personal repository for training and familiarise with GitHub
